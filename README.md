@@ -32,9 +32,12 @@
 
 - **Languages**:
     
-    ![PHP](https://img.shields.io/badge/PHP%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![JS](https://img.shields.io/badge/js%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
-    ![](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
 
 <br>   
     
