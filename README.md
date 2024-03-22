@@ -39,10 +39,7 @@
 
 
 <br>
-<br>
-
 -----
-
 <br>
 
 
@@ -74,8 +71,8 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/brajhan-arboleda-424887207" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Brajhan Arboleda-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
