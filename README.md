@@ -88,7 +88,7 @@
 
 <li>
 <a href="mailto:0xauxiliararboleda@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/outlook:  auxiliararboleda-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/mail:  auxiliararboleda-%23EA4335.svg?style=for-the-badge&logo=outlook&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
