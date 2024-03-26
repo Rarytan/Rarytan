@@ -11,11 +11,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- Tecnólogo en análisis y desarrollo de sistemas de información
+- Full stack development
 - Currently learning Web Development by Self
-- Personal website [link](https://www.)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://)
+
 
 <br><br>
 
