@@ -7,7 +7,7 @@
 
 <br>
 	
-## <picture><img src = "" width = 50px></picture> **About me**
+## <picture><img src = "" width = 50px></picture>
 
 <br>
 
