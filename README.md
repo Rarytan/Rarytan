@@ -7,7 +7,7 @@
 
 <br>
 	
-## <picture><img src = "https://www.pngwing.com/es/free-png-zvmky" width = 50px></picture> **About me**
+## <picture><img src = "" width = 50px></picture> **About me**
 
 <br>
 
